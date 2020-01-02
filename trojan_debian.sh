@@ -633,8 +633,8 @@ port=53
 domain-needed
 bogus-priv
 no-resolv
-server=8.8.4.4#53
 server=1.1.1.1#53
+server=8.8.4.4#53
 interface=lo
 bind-interfaces
 listen-address=127.0.0.1
